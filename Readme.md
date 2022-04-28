@@ -11,7 +11,7 @@ dotnet new -u ./
 ````
 ## Generation of new project 
 Options : 
-* --entity | -E : Name of entity used in template, it will replace "Template" values 
+* --entity | -e : Name of entity used in template, it will replace "Template" values 
 * --name | -n : Name of solution, default is Neos.Templates
 * --output | -o : Output directory for solution
 
